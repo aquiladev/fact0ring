@@ -1,0 +1,25 @@
+{
+  "name": "fact0ring",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "webpack --config webpack.config.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aquiladev/fact0ring.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aquiladev/fact0ring/issues"
+  },
+  "homepage": "https://github.com/aquiladev/fact0ring#readme",
+  "dependencies": {
+    "reveal.js": "3.6.0"
+  },
+  "devDependencies": {
+    "copy-webpack-plugin": "4.2.3"
+  }
+}
